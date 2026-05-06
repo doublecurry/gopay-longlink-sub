@@ -1,2 +1,2 @@
 # gopay-longlink-script
-Codex Plus subscription resolves payment approval issues.
+Plus subscription resolves payment approval issues.
