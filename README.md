@@ -39,12 +39,3 @@
 ## 🤝 贡献
 
 欢迎提交 Issue 或 Pull Request 来改进脚本的兼容性！
-
------
-
-### 如何更新到 GitHub？
-
-1.  点击你项目页面的 **README.md**。
-2.  点击右上角的 **笔状图标 (Edit this file)**。
-3.  将上述内容粘贴进去。
-4.  点击 **Commit changes** 提交。
